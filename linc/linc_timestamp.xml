@@ -1,0 +1,17 @@
+<xml>
+
+    <files id='haxe'>
+
+        <compilerflag value='-I${LINC_TIMESTAMP_PATH}/linc/'/>
+        <file name="${LINC_TIMESTAMP_PATH}/linc/linc_timestamp.cpp" unless="windows"/>
+        <file name="${LINC_TIMESTAMP_PATH}/linc/linc_timestamp_windows.cpp" if="windows"/>
+
+    </files>
+
+    <target id="haxe">
+
+        
+
+    </target>
+
+</xml>
