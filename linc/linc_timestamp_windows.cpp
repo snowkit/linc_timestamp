@@ -2,6 +2,10 @@
 
 #include <hxcpp.h>
 
+// Originally adapted for snow from nme
+// https://github.com/underscorediscovery/snow
+// https://github.com/haxenme/nme
+
 #if HX_WINDOWS
 #include <Shlobj.h>
 #include <time.h>
