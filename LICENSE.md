@@ -1,7 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Sven Bergström
-Copyright (c) 2015 snõwkit contributors
+Copyright (c) 2015 Sven Bergström   
+Copyright (c) 2015 snõwkit contributors   
+Copyright (c) 2012-2015 Hugh Sanderson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
