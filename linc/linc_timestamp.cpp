@@ -45,7 +45,6 @@ namespace linc {
                     time_scale = 1e-9 * (double)info.numer / info.denom;
                 }
 
-               double r =  mach_absolute_time() * time_scale;
                return mach_absolute_time() * time_scale;
 
             #else
