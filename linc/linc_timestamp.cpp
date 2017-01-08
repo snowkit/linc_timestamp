@@ -1,8 +1,11 @@
+
+#include <hxcpp.h>
+
 #include "./linc_timestamp.h"
 
 // Originally adapted for snow from nme
-// https://github.com/underscorediscovery/snow
-// https://github.com/haxenme/nme
+    // https://github.com/haxenme/nme
+    // https://github.com/underscorediscovery/snow
 
 #include <sys/time.h>
 #include <stdint.h>
