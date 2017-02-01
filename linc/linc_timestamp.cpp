@@ -1,4 +1,3 @@
-
 #include <hxcpp.h>
 
 #include "./linc_timestamp.h"

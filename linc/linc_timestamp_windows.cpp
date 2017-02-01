@@ -1,6 +1,6 @@
-#include "./linc_timestamp.h"
-
 #include <hxcpp.h>
+
+#include "./linc_timestamp.h"
 
 // Originally adapted for snow from nme
 // https://github.com/underscorediscovery/snow
